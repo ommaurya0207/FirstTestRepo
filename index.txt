@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is version 2 of file
+=======
+This is version 2 of file updated from web
+>>>>>>> 55ea78eac50e88f6d010990209e2a7a627191c12
